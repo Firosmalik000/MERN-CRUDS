@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "nama": "baju baru",
+      "harga": "20000",
+      "Stock": "2",
+      "status": false,
+      "id": 5
+    },
+    {
+      "nama": "Firos Malik Abdillah",
+      "harga": "121341",
+      "Stock": "12",
+      "status": false,
+      "id": 6
+    },
+    {
+      "nama": "Kadal Mesir",
+      "price": "",
+      "Stock": "20",
+      "status": false,
+      "harga": "200000",
+      "id": 7
+    },
+    {
+      "nama": "laptop lenovo",
+      "price": "",
+      "Stock": "30",
+      "status": false,
+      "harga": "5000000",
+      "id": 8
+    },
+    {
+      "nama": "Buaya Kebun",
+      "price": "",
+      "Stock": "5",
+      "status": false,
+      "harga": "3600000",
+      "id": 9
+    },
+    {
+      "nama": "infaq semen",
+      "price": "",
+      "Stock": "200",
+      "status": false,
+      "harga": "300000",
+      "id": 10
+    }
+  ]
+}
